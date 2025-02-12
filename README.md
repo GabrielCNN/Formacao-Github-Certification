@@ -1,4 +1,4 @@
-# O que aprendi até aqui
+## O que aprendi até aqui
 1. **git clone** - clonar um repositório do Github para uma pasta local (no computador)
 2. **git add .** - Preparar o arquivo para realizar um commit (alteração realizada no código)
 3. **git commit -m** - adicionar um cometário ao código modificado
