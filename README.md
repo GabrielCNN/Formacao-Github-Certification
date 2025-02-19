@@ -29,3 +29,7 @@
 9. **git push origin main** - "empurrar" a modificação realizada para o github
 10. **git status** - para saber se tenho alteração na minha branch padrão (main)
 11. **ssh-keygen** - token de acesso para não ficar digitando usuário e senha todo commit que preciso realizar
+
+
+
+![](/home/gabriel/Imagens/brave_screenshot_github.com.png)

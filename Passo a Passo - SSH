@@ -1,7 +1,0 @@
-## Processo para alteração de autenticação HTTPS para SSH
-
-Sempre que você conectar um repositório remoto na máquina local, qualquer alteração a ser realizada em documentação será solicitado o nome do usuário e token para realizar o "push commit -m".
-
-Para não precisar digitar usuário todo momento e decorar token, podemos alterar para a autenticação SSH, assim todo commit estará autenticado.
-
-![](/home/gabriel/snap/typora/90/.config/Typora/typora-user-images/image-20250219170148848.png)
