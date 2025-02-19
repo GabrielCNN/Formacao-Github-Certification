@@ -1,4 +1,23 @@
-## O que aprendi até aqui
+## Introdução aos Conceitos de Git e Github
+
+
+
+##### Neste módulo, até aqui, aprendi conceitos básicos sobre Github como:
+
+
+
+- O que é Github e a importância da ferramenta para ambiente de desenvolvimento
+
+- Clonar um repositório da minha conta no Github para minha pasta local
+
+- Criar chaves e tokens para aumentar a segurança da minha conta e conexão
+
+- Iniciar um repositório local em máquina
+
+  
+
+  E, por fim, comandos para se familiarizar com a ferramenta, os quais já estou utilizando para modificar esse documento, são eles:
+
 1. **git clone** - clonar um repositório do Github para uma pasta local (no computador)
 2. **git add .** - Preparar o arquivo para realizar um commit (alteração realizada no código)
 3. **git commit -m** - adicionar um cometário ao código modificado
