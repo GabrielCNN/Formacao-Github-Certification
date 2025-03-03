@@ -1,32 +1,68 @@
-## Introdução aos Conceitos de Git e Github
+# Introdução aos Conceitos de Git e GitHub
+
+Este documento registra meu aprendizado sobre Git e GitHub, fornecido como um guia para quem está começando a utilizar essas ferramentas essenciais no desenvolvimento de software.
+
+## O que aprendi até aqui
+
+Até o momento, aprendi conceitos fundamentais sobre GitHub, incluindo:
+
+✅ A importância do GitHub para o desenvolvimento colaborativo.
+
+✅ Como clonar repositórios do GitHub para minha máquina local.
+
+✅ Crie chaves SSH e tokens de acesso para aumentar a segurança.
+
+✅ Inicie um repositório local e conecte-se ao GitHub.
+
+Além disso, já estou utilizando vários comandos para gerenciar repositórios e versionamento de código.
+
+## Principais comandos do Git
+
+### Configuração Inicial
 
 
 
-##### Neste módulo, até aqui, aprendi conceitos básicos sobre Github como:
+| Comando   |  Descrição                           |
+| :---------- |  :---------------------------------- |
+| `git config --list` | Exiba as configurações atuais do usuário no Git. |
+| `git config --global user.name "Seu Nome"` | Definir o nome do usuário globalmente. |
+| `git config --global user.email "seu@email.com"` | Definir o e-mail do usuário globalmente. |
+| `ssh-keygen` | Gere uma chave SSH para autenticação sem precisar digitar usuário e senha em cada commit. |
+| `Configuração de autenticação de dois fatores (2FA) ` | Habilita mais segurança na conta do GitHub. |
+
+### Manipulação de Repositórios
+
+| Comando   |  Descrição                           |
+| :---------- |  :---------------------------------- |
+| `git init` | Inicializa um novo repositório Git localmente. |
+| `git clone <URL do repositório>` | Clona um repositório remoto para uma máquina local. |
+| `git remote set-url origin <URL>` | Configure ou altere a URL do repositório remoto. |
+
+### Trabalhando com Arquivos e Commits
+
+| Comando   |  Descrição                           |
+| :---------- |  :---------------------------------- |
+| `git add .` | Adicionadas todas as alterações para serem comprometidas. |
+| `git commit -m "Mensagem do commit"` | Salvar as alterações com uma mensagem descritiva. |
+| `git status` | Exibe o status das modificações no repositório. |
+
+### Enviando modificações para o GitHub
+
+| Comando   |  Descrição                           |
+| :---------- |  :---------------------------------- |
+| `git push origin main` | Envie as alterações para o repositório remoto na branch main. |
+
+### Navegação no Terminal
+
+| Comando   |  Descrição                           |
+| :---------- |  :---------------------------------- |
+| `cd <nome_da_pasta>` | Acessa uma pasta específica no terminal. |
 
 
 
-- O que é Github e a importância da ferramenta para ambiente de desenvolvimento
 
-- Clonar um repositório da minha conta no Github para minha pasta local
+## Melhorias
 
-- Criar chaves e tokens para aumentar a segurança da minha conta e conexão
+Sugestões e melhorias são sempre bem-vindas! Caso tenha dicas ou queira contribuir, sinta-se à vontade para deixar um comentário. 🚀
 
-- Iniciar um repositório local em máquina
 
-  
-
-  E, por fim, comandos para se familiarizar com a ferramenta, os quais já estou utilizando para modificar esse documento, são eles:
-
-1. **git clone** - clonar um repositório do Github para uma pasta local (no computador)
-2. **git add .** - Preparar o arquivo para realizar um commit (alteração realizada no código)
-3. **git commit -m** - adicionar um cometário ao código modificado
-4. **cd** - selecionar a pasta desejada
-5. **git config --list** - saber o usuário que estou utilizando para realizar a alteração
-6. **git config --global** - altera o nome do usuário e e-mail, basta seguir digitando "user.name" ou ¨user.email¨
-7. **git init** - cria um repositório local na máquina, depois consigo conectar ao repositório no github
-8. Configurar duplo fator de autenticação (2FA)
-9. **git push origin main** - "empurrar" a modificação realizada para o github
-10. **git status** - para saber se tenho alteração na minha branch padrão (main)
-11. **ssh-keygen** - token de acesso para não ficar digitando usuário e senha todo commit que preciso realizar
-12. **git remote set-url origin** - para selecionar o ssh
