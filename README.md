@@ -51,6 +51,8 @@ Além disso, já estou utilizando vários comandos para gerenciar repositórios 
 | Comando   |  Descrição                           |
 | :---------- |  :---------------------------------- |
 | `git push origin main` | Envie as alterações para o repositório remoto na branch main. |
+| `Merge` | Realiza o Merge da Branch secundária para Branch Main |
+| `Fork` | Contribuir com projetos de terceiros, sem alterar o respositório origem |
 
 ### Navegação no Terminal
 
