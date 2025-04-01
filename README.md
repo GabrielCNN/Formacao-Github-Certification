@@ -16,6 +16,16 @@ Até o momento, aprendi conceitos fundamentais sobre GitHub, incluindo:
 
 Além disso, já estou utilizando vários comandos para gerenciar repositórios e versionamento de código.
 
+
+<details>
+<summary>Nova Branch</summary>
+
+:computer: (git branch versao_01) Criar uma nova branch para alterar os arquivos, depois realiza um Merge com a branch padr"ao (main)
+:computer: (git checkout nome_da_branch) Para entrar na branch criada
+:computer: (git checkout merge nome_da_branch) Quando selecionar a branch main, rodar o comando merge para incluir alteração realizada
+
+</details>
+
 ## Principais comandos do Git
 
 ### Configuração Inicial
@@ -60,12 +70,3 @@ Além disso, já estou utilizando vários comandos para gerenciar repositórios 
 | Comando   |  Descrição                           |
 | :---------- |  :---------------------------------- |
 | `cd <nome_da_pasta>` | Acessa uma pasta específica no terminal. |
-
-
-
-
-## Melhorias
-
-Sugestões e melhorias são sempre bem-vindas! Caso tenha dicas ou queira contribuir, sinta-se à vontade para deixar um comentário. 🚀
-
-
