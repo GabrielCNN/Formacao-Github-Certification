@@ -45,6 +45,7 @@ Além disso, já estou utilizando vários comandos para gerenciar repositórios 
 | `git add .` | Adicionadas todas as alterações para serem comprometidas. |
 | `git commit -m "Mensagem do commit"` | Salvar as alterações com uma mensagem descritiva. |
 | `git status` | Exibe o status das modificações no repositório. |
+| `git tag -a v1.1 -m` | Controle de versão do arquivo no qual estou trabalhando. |
 
 ### Enviando modificações para o GitHub
 
