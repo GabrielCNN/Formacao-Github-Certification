@@ -20,7 +20,7 @@ Além disso, já estou utilizando vários comandos para gerenciar repositórios 
 <details>
 <summary>Nova Branch</summary>
 
-:computer: (git branch versao_01) Criar uma nova branch para alterar os arquivos, depois realiza um Merge com a branch padr"ao (main)
+:computer: [(git branch versao_01) Criar uma nova branch para alterar os arquivos, depois realiza um Merge com a branch padr"ao (main)]
 :computer: (git checkout nome_da_branch) Para entrar na branch criada
 :computer: (git checkout merge nome_da_branch) Quando selecionar a branch main, rodar o comando merge para incluir alteração realizada
 
