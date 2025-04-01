@@ -14,12 +14,6 @@ Até o momento, aprendi conceitos fundamentais sobre GitHub, incluindo:
 
 ✅ Inicie um repositório local e conecte-se ao GitHub.
 
-✅ (git branch versao_01) Criar uma nova branch para alterar os arquivos, depois realiza um Merge com a branch padr"ao (main)
-
-✅ (git checkout nome_da_branch) Para entrar na branch criada
-
-✅ (git checkout merge nome_da_branch) Quando selecionar a branch main, rodar o comando merge para incluir alteração realizada
-
 
 ## Principais comandos do Git
 
