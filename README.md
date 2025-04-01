@@ -14,17 +14,12 @@ Até o momento, aprendi conceitos fundamentais sobre GitHub, incluindo:
 
 ✅ Inicie um repositório local e conecte-se ao GitHub.
 
-Além disso, já estou utilizando vários comandos para gerenciar repositórios e versionamento de código.
+✅ (git branch versao_01) Criar uma nova branch para alterar os arquivos, depois realiza um Merge com a branch padr"ao (main)
 
+✅ (git checkout nome_da_branch) Para entrar na branch criada
 
-<details>
-<summary>Nova Branch</summary>
+✅ (git checkout merge nome_da_branch) Quando selecionar a branch main, rodar o comando merge para incluir alteração realizada
 
-:computer: [(git branch versao_01) Criar uma nova branch para alterar os arquivos, depois realiza um Merge com a branch padr"ao (main)]
-:computer: (git checkout nome_da_branch) Para entrar na branch criada
-:computer: (git checkout merge nome_da_branch) Quando selecionar a branch main, rodar o comando merge para incluir alteração realizada
-
-</details>
 
 ## Principais comandos do Git
 
@@ -47,6 +42,9 @@ Além disso, já estou utilizando vários comandos para gerenciar repositórios 
 | `git init` | Inicializa um novo repositório Git localmente. |
 | `git clone <URL do repositório>` | Clona um repositório remoto para uma máquina local. |
 | `git remote set-url origin <URL>` | Configure ou altere a URL do repositório remoto. |
+| `git branch versao_01)` | Criar uma nova branch para alterar os arquivos, depois realiza um Merge com a branch padr"ao (main) |
+| `git checkout nome_da_branch` | Para entrar na branch criada |
+| `git checkout merge nome_da_branch` | Quando selecionar a branch main, rodar o comando merge para incluir alteração realizada |
 
 ### Trabalhando com Arquivos e Commits
 
